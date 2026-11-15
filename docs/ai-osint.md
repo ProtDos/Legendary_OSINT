@@ -31,3 +31,4 @@
 
 ### AI OSINT Tooling
 - [Nexus OSINT](https://www.nexus-osint.ai/) — Paid agentic OSINT platform for company, sanctions, PEP and crypto research with source-linked findings.
+- [TraceFind](https://tracefind.info/api) — Email, phone and username OSINT platform with a remote MCP server (OAuth sign-in, no key needed), so Claude, Cursor or other AI assistants can run searches and read reports.

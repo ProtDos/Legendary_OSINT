@@ -155,6 +155,7 @@
 - [UserSearch](https://usersearch.com/) — Paid OSINT platform combining 18 search types and 100+ data sources with shared case management  
 - [IDcrawl](https://www.idcrawl.com/) — Free people search aggregating social media profiles and public web information  
 - [Pipl](https://pipl.com/) — Commercial identity intelligence platform for investigations and fraud prevention (enterprise-focused)  
+- [TraceFind](https://tracefind.info/) — OSINT lookup from email, phone, username or name to linked accounts, social profiles and data breaches, without notifying the owner  
 
 ---
 

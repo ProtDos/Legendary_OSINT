@@ -8,6 +8,7 @@
 - [EmailRep.io](https://emailrep.io/) — Email reputation and risk scoring  
 - [Hunter.io](https://hunter.io/) — Discover corporate email patterns and addresses  
 - [OsintCat](https://www.osintcat.net/) — Search emails, usernames, and phone numbers across breach databases for instant exposure verification
+- [TraceFind](https://tracefind.info/email) — Email lookup showing which sites an address is registered on, its data breaches and exposed fields, the linked Google account and whether the mailbox exists
 
 ### Email Analysis
 - [MX Toolbox](https://mxtoolbox.com/EmailHeaders.aspx) — Email header analyzer and MX tools  
